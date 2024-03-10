@@ -45,7 +45,3 @@ function getCurrentLocation() {
         alert('Geolocation is not supported by your browser.');
     }
 }
-
-
-
-//68cf45a6b06da1ee1aa795442dce6509
